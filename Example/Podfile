@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BLKLocationManager_Example' do
+  pod 'BLKLocationManager', :path => '../'
+
+  target 'BLKLocationManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
