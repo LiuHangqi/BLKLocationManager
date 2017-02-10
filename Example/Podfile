@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'BLKLocationManager_Example' do
   pod 'BLKLocationManager', :path => '../'
-
+  pod 'JZLocationConverter'
   target 'BLKLocationManager_Tests' do
     inherit! :search_paths
 

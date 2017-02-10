@@ -7,12 +7,15 @@
 //
 
 #import "BLKAppDelegate.h"
+#import "BLKLocationManager.h"
 
 @implementation BLKAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+//    [[BLKLocationManager sharedInstance] requestAuthorization];
+//    [[BLKLocationManager sharedInstance] updateLocationWithCompletion:nil];
     return YES;
 }
 
