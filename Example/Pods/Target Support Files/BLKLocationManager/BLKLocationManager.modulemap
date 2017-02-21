@@ -1,0 +1,6 @@
+framework module BLKLocationManager {
+  umbrella header "BLKLocationManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

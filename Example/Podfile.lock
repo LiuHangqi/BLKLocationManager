@@ -1,0 +1,20 @@
+PODS:
+  - BLKLocationManager (1.0.0):
+    - JZLocationConverter
+  - JZLocationConverter (1.0.0)
+
+DEPENDENCIES:
+  - BLKLocationManager (from `../`)
+  - JZLocationConverter
+
+EXTERNAL SOURCES:
+  BLKLocationManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BLKLocationManager: 0d836239216b9419c6a2a22d275d270d6b4d4f44
+  JZLocationConverter: 3d816bee6484aed9c155a6045a02ce444833e2f0
+
+PODFILE CHECKSUM: bf69a309f8a390488d7f6d2744e9b3279befccbe
+
+COCOAPODS: 1.1.1

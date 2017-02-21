@@ -1,0 +1,26 @@
+{
+  "name": "BLKLocationManager",
+  "version": "1.0.0",
+  "summary": "A short description of BLKLocationManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/BLKLocationManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LiuHangqi": "liuhangqi@live.com"
+  },
+  "source": {
+    "git": "~/dev/BLKLocationManager"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BLKLocationManager/Classes/**/*",
+  "dependencies": {
+    "JZLocationConverter": [
+
+    ]
+  }
+}
