@@ -40,7 +40,6 @@
 		09C2E8EFE589501671BAE8A7 /* Pods_BLKLocationManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BLKLocationManager_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		281C5A67BD8A350A7AAF5CAB /* Pods-BLKLocationManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BLKLocationManager_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BLKLocationManager_Example/Pods-BLKLocationManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		29B842BD9F4B96DB6DCC6D0D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		2F8B0DD8C187CC744F8821C8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		3771D8BCE54F3973DD7DA8C9 /* Pods-BLKLocationManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BLKLocationManager_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-BLKLocationManager_Example/Pods-BLKLocationManager_Example.release.xcconfig"; sourceTree = "<group>"; };
 		5A775CF51E164C200092A7ED /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		6003F58A195388D20070C39A /* BLKLocationManager_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BLKLocationManager_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -191,7 +190,6 @@
 			isa = PBXGroup;
 			children = (
 				F9C74E8A209A74BA7F2F0FD1 /* BLKLocationManager.podspec */,
-				2F8B0DD8C187CC744F8821C8 /* README.md */,
 				29B842BD9F4B96DB6DCC6D0D /* LICENSE */,
 			);
 			name = "Podspec Metadata";
